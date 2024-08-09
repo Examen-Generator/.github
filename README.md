@@ -1,2 +1,1 @@
-# .github
-Create school exams with the quality of final exams in just a few minutes, without any hassle.
+This repository is used for displaying the main `README` on our Github profile.
